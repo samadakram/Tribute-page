@@ -1,0 +1,56 @@
+body{
+    color: #333;
+    overflow-x: hidden;
+    font-size: 1.2rem;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-fluid{
+    width: auto;
+    background-color: #eee;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 15px;
+    border-radius: 5px;
+}
+.container-fluid h1{
+    font-size: 4rem;
+}
+.container-fluid p{
+    padding-top: 10px;
+}
+.img-container{
+    max-width: 1100px !important;
+    background-color: white;
+    padding: 20px 70px 0px 90px;
+}
+.img-container p{
+    margin-top: 20px;
+}
+#img{
+    width: 100%;
+}
+.life-info{
+    margin-top: 25px;
+}
+span{
+    color: #333;
+    font-weight: bold;
+}
+#tribute-info{
+    max-width: 70% !important;
+    margin: auto;
+    padding-left: 60px;
+}
+.font-italic{
+    max-width: 70% !important;
+    margin: auto;
+    margin-top: 10px;
+}
+.bottom{
+    margin-top: 25px;
+}
